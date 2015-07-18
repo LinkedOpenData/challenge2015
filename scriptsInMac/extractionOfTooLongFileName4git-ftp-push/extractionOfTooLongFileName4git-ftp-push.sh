@@ -9,3 +9,4 @@ IFS=$'\n'; for length in `cat repofiles.tooLongFileName.list`; do rsync -auv --p
 IFS=$'\n'; for length in `cat repofiles.tooLongFileName.list`; do rm ; done
 mv ../../previous/blog/wp-content/uploads/ ./backupTooLongNameFiles
 mv ../../previous/challenge2012/dat/tmp/ ./backupTooLongNameFiles
+mv ../.././previous/challenge2013/dat2013/idea-error/ ./backupTooLongNameFiles/
