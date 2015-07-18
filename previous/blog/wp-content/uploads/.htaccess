@@ -1,0 +1,3 @@
+<files async-upload.php>
+AddHandler application/x-httpd-phpcgi .php
+</files>
