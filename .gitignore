@@ -1,4 +1,6 @@
-*~
-*.swp
-/previous/blog/wp-content/uploads/
-/scriptsInMac/extractionOfTooLongFileName4git-ftp-push/backupTooLongNameFiles
+**/*~
+**/*.swp
+**/._*
+**/.DS_Store
+**/scriptsInMac/extractionOfTooLongFileName4git-ftp-push/backupTooLongNameFiles/*
+**archives/
