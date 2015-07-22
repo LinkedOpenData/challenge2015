@@ -9,5 +9,4 @@ AuthGroupFile /dev/null
 AuthName "Please input ID and Password."
 AuthType Basic
 require valid-user
-Options +Indexes
 # END heteml
