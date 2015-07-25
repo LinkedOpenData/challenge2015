@@ -33,10 +33,7 @@ $ git status
 
 ```
 $ git status
-<<<<<<< HEAD
 $ git add .
-=======
->>>>>>> origin/master
 $ git add . -u 
 $ git commit -m “<コメント>"
 $ git status
