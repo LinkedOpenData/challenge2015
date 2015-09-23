@@ -2,9 +2,9 @@
 
 /**
  * -----------------------------------------------------------------------------
- * Generated 2015-09-04T17:16:27+09:00
+ * Generated 2015-09-23T18:55:41+09:00
  *
- * @item      misc.latest_version
+ * @item      misc.do_page_reindex_check
  * @group     concrete
  * @namespace null
  * -----------------------------------------------------------------------------
@@ -14,7 +14,7 @@ return array(
     'site' => 'Linked Open Data Challenge 2015',
     'version_installed' => '5.7.4.2',
     'misc' => array(
-        'access_entity_updated' => 1440542087,
+        'access_entity_updated' => 1442549717,
         'latest_version' => '5.7.5.1',
         'do_page_reindex_check' => false,
         'favicon_fid' => '31',
